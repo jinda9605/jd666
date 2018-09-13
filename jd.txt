@@ -1,1 +1,2 @@
-jinda is a 666 person.
+jinda is not a 666 person.
+and he is very 233 person.
